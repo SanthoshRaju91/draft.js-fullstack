@@ -1,0 +1,10 @@
+.draft-editor {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.DraftEditor-root {
+  margin-top: 20px;
+  border: 1px solid;
+  padding: 10px;
+}
